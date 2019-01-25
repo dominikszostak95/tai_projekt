@@ -1,0 +1,9 @@
+@extends('layouts.master')
+
+@section('title', 'O nas - FootShop!')
+
+@section('products')
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae purus ut dolor bibendum pharetra. Cras eu massa maximus purus mollis tincidunt. Donec vitae turpis finibus, maximus urna vitae, iaculis nulla. Quisque iaculis elit massa, eget auctor metus ullamcorper sit amet. Suspendisse potenti. Phasellus quis ornare quam. Phasellus fringilla nibh eu arcu dignissim, eu efficitur augue tincidunt. Praesent ut purus nisl. Ut scelerisque velit vestibulum gravida porta. Suspendisse lorem lectus, tempor ut purus vel, mollis tempus sem. Sed interdum massa libero, nec lobortis velit convallis in. Fusce tempor non nisl et venenatis. Integer bibendum malesuada magna. Vestibulum accumsan tortor eu massa scelerisque sagittis id vel ante.</p>
+
+    <p>Curabitur commodo purus eu urna commodo, sit amet ornare tortor viverra. Nam tincidunt viverra nisl, in interdum sem posuere id. In hac habitasse platea dictumst. Aenean consectetur sodales ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer sit amet lobortis leo. Phasellus vel diam in dolor ultricies placerat. Donec semper venenatis ex non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis at orci sed turpis lacinia interdum. Vivamus mattis leo nec sem mattis, ut laoreet enim facilisis. Nullam euismod rhoncus sapien, sit amet gravida urna venenatis ac. Nam imperdiet, est id vehicula semper, libero ante condimentum arcu, in vulputate eros tellus nec ex. Suspendisse enim est, cursus quis purus in, dignissim congue risus. Phasellus nec ipsum et erat fringilla ornare.</p>
+@endsection
